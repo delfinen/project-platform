@@ -32,13 +32,20 @@ public class movement : MonoBehaviour {
             //när man klicka på hopp knappen (space) kollar checkar den om man är på marken (isgrounded = true) och om du är på marken och klickar space får du fart uppåt du får hoppfart
             if (Input.GetButtonDown("Jump"))
             {
-                if(groundcheck.isgrounded > 01  )
+
+                if(groundcheck.isgrounded == true  )
 
                 rbody.velocity = new Vector2( rbody.velocity.x, jumpspeed);
             }
           
         }
-         
+
+
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            
+        }
     }
 }
                              
