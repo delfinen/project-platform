@@ -2155,6 +2155,11 @@ Prefab:
       propertyPath: m_SortingLayer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114341116282843056, guid: 6567685d07e9ceb4884b46cb0f488518,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6567685d07e9ceb4884b46cb0f488518, type: 2}
   m_IsPrefabAsset: 0

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoadLevel : MonoBehaviour {
-    public int miniumscoreneeded = 0;
+    public int miniumscoreneeded = 1;
 
     public string scenetoload = "level";
 
