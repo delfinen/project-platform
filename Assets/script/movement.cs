@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class movement : MonoBehaviour {
+
     
+
     public float movespeed = 6f;
     
     public float jumpspeed = 12f;
@@ -26,8 +28,10 @@ public class movement : MonoBehaviour {
 	void Update () {
         
         {
-            // man får axeln horizontalt och får fart så när man klickar på space får man fart uppåt.
+            // man får axeln horizontalt och får fart så när man klickar a eller d så får man fart åt håller man klickar
             rbody.velocity = new Vector2(Input.GetAxis("Horizontal") * movespeed, rbody.velocity.y);
+
+            
 
             //när man klicka på hopp knappen (space) kollar checkar den om man är på marken (isgrounded = true) och om du är på marken och klickar space får du fart uppåt du får hoppfart
             if (Input.GetButtonDown("Jump"))
@@ -37,15 +41,13 @@ public class movement : MonoBehaviour {
 
                 rbody.velocity = new Vector2( rbody.velocity.x, jumpspeed);
             }
-          
-        }
 
-
-
-        if (Input.GetKey(KeyCode.S))
-        {
             
         }
+
+
+
+       
     }
 }
                              

@@ -152,6 +152,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114201808902023840, guid: 7a7e15aa77382da4dbbbd7b8bf7965ae,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114201808902023840, guid: 7a7e15aa77382da4dbbbd7b8bf7965ae,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a7e15aa77382da4dbbbd7b8bf7965ae, type: 2}
   m_IsPrefabAsset: 0
@@ -198,6 +208,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -243,6 +263,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -357,6 +387,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -413,6 +453,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -463,6 +513,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -520,6 +580,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -566,6 +636,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -611,6 +691,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -663,6 +753,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -709,6 +809,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -754,6 +864,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -873,6 +993,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -924,6 +1054,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -969,6 +1109,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1020,6 +1170,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1244,6 +1404,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1315,7 +1485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   miniumscoreneeded: 0
-  scenetoload: SampleScene
+  scenetoload: level
 --- !u!212 &851021922
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1405,6 +1575,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1456,6 +1636,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1502,6 +1692,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1547,6 +1747,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1599,6 +1809,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1644,6 +1864,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1691,6 +1921,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1736,6 +1976,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1783,6 +2033,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1824,6 +2084,16 @@ Prefab:
     - target: {fileID: 4465537980857780, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -1889,6 +2159,48 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4465537980857780, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
     type: 2}
   m_PrefabInternal: {fileID: 44746997}
+--- !u!1001 &1170974516
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -24.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.776
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061592847062774, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 21531683beadf204e9dd4dedd76ef75f, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!4 &1268844302 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4465537980857780, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
@@ -1937,6 +2249,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -1982,6 +2304,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -2158,7 +2490,7 @@ Prefab:
     - target: {fileID: 114341116282843056, guid: 6567685d07e9ceb4884b46cb0f488518,
         type: 2}
       propertyPath: scenetoload
-      value: level
+      value: disappearinglevel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6567685d07e9ceb4884b46cb0f488518, type: 2}
@@ -2211,6 +2543,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -2256,6 +2598,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -2382,6 +2734,16 @@ Prefab:
       propertyPath: m_Name
       value: spikes (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -2427,6 +2789,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -2474,113 +2846,19 @@ Prefab:
       propertyPath: m_Name
       value: spikes (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
---- !u!1 &1843226402
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1843226406}
-  - component: {fileID: 1843226405}
-  - component: {fileID: 1843226404}
-  - component: {fileID: 1843226403}
-  m_Layer: 0
-  m_Name: coin
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1843226403
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1843226402}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65a9fb1d2818d93469bda1f9e5c06dde, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amount: 1
---- !u!58 &1843226404
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1843226402}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.25
---- !u!212 &1843226405
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1843226402}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300046, guid: a02c90cee0fe3694da6cd850d775cd15, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1843226406
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1843226402}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.41, y: 3.776, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1845329785 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4465537980857780, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
@@ -2633,6 +2911,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
@@ -25950,6 +26238,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
   m_IsPrefabAsset: 0
@@ -26005,6 +26303,16 @@ Prefab:
     - target: {fileID: 1515215315135680, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
       propertyPath: m_Name
       value: spikes (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: miniumscoreneeded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114155891241367846, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2,
+        type: 2}
+      propertyPath: scenetoload
+      value: level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0cec5a5ec5eb34bbbe8ab3a6d6edf2, type: 2}
